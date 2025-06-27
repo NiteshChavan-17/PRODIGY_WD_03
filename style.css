@@ -46,9 +46,8 @@ h1{
     border-radius:4px;
     font-size: 15px;
     font-weight: 800;
-    position:relative;
-    left:570px;
-    bottom:20px;
+    margin:20px auto;
+    display:block;
 }
 
 #newbtn{
